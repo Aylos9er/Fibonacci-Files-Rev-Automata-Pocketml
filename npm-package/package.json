@@ -1,0 +1,38 @@
+{
+  "name": "fibonacci-reversible-automata",
+  "version": "1.0.0",
+  "description": "Reversible Turing-complete cellular automaton with Fibonacci spiral geometry. First documented implementation combining reversibility, Turing completeness, and Fibonacci parameters.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "cellular-automata",
+    "fibonacci",
+    "reversible",
+    "turing-complete",
+    "margolus",
+    "code-golf",
+    "computational-theory",
+    "golden-ratio",
+    "automata",
+    "reversible-computing"
+  ],
+  "author": "j Mosij <mosij@icloud.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aylos9er/Fibonacci-Files-Rev-Automata-Pocketml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aylos9er/Fibonacci-Files-Rev-Automata-Pocketml/issues"
+  },
+  "homepage": "https://github.com/Aylos9er/Fibonacci-Files-Rev-Automata-Pocketml#readme",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
+}
