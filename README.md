@@ -1,10 +1,10 @@
-# 🧬 PocketLM: Reversible Fibonacci Turing-Complete Cellular Automata
+# 🧬 PocketLM: Two-Way Reversible Fibonacci Turing-Complete Cellular Automata
 
-**Proof of Concept by j Mosij** - mosij@icloud.com
+**Proof of Concept by Jeremiah Mosij** - mosij@icloud.com
 
 ## 🏆 Potential World Record
 
-First documented implementation of a **reversible, Turing-complete cellular automaton based on Fibonacci spiral geometry**.
+First documented implementation of a **two-way reversible, Turing-complete cellular automaton based on Fibonacci spiral geometry**.
 
 ### Key Achievements
 
@@ -18,7 +18,7 @@ First documented implementation of a **reversible, Turing-complete cellular auto
 
 This is potentially the **first system ever** to combine:
 
-1. **Reversible computation** - No information loss, can run backward
+1. **Two-way reversible computation** - No information loss, can run forward & backward
 2. **Turing completeness** - Universal computation capability
 3. **Fibonacci geometry** - Natural golden angle spiral patterns
 4. **Margolus blocks** - Provably bijective 2x2 cellular automata
